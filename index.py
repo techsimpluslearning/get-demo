@@ -1,3 +1,4 @@
 from time import sleep
 
-sleep(10)
+print("New Data")
+sleep(1)
